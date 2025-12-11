@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.env
+secrets.ini
+credentials.json
+*.exe
+*.dll
